@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Google Earth Engine**
 
-- 💬 Me pergunte sobre **Excel, geoprocessamento e análise ambiental**
+- 💬 Me pergunte sobre **Analise de dados, geoprocessamento e análise ambiental**
 
 - 📫 Como chegar até mim **marcos.barboza@uft.edu.br**
 
